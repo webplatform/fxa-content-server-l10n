@@ -1,9 +1,11 @@
-fxa-content-server-l10n
-=======================
+WebPlatform.org Accounts l10n
+=============================
 
 This repo (abbreviated as "L10N" in this README) contains all translated/translatable strings for the fxa-content-server repo (abbreviated as "SOURCE"). It contains an exact copy of the locales/ directory from SOURCE, and nothing else (except for this README).
 
-The moz-verbatim translation team works with this L10N repo, pushing changes into it any time they like.
+While the master branch will always follow the upstream version coming from the maintainer of the project, the `webplatform-customizations` branch will contain our own text differences.
+
+## How to add content
 
 On a regular basis, somebody on the SOURCE committers team copies everything from L10N into SOURCE/locale/, reviews the changes, then commits and pushes SOURCE. This makes the new translated strings available to SOURCE users, provides a clean (single-commit) revision history, and prevents non-locale/ changes from leaking from one repo to the other. The SOURCE repo contains a script (scripts/import_locale) to perform this update.
 

@@ -27,7 +27,7 @@ msgstr ""
 #: server/templates/pages/dist/terms.html:1
 #: server/templates/email/reset.html:1 server/templates/email/verify.html:1
 msgid "Firefox Accounts"
-msgstr "Comptes Firefox"
+msgstr "Compte WebPlatform.org"
 
 #: server/templates/pages/src/404.html:2
 #: server/templates/pages/dist/404.html:2
@@ -94,7 +94,7 @@ msgstr ""
 #: server/templates/pages/src/index.html:3
 #: server/templates/pages/dist/index.html:2
 msgid "Firefox Accounts requires JavaScript."
-msgstr "JavaScript est nécessaire pour utiliser les comptes Firefox."
+msgstr "JavaScript est nécessaire pour s’identifier auprès de WebPlatform.org"
 
 #: server/templates/pages/src/privacy.html:2
 #: server/templates/pages/src/privacy.html:5
@@ -108,7 +108,7 @@ msgstr "Politique de confidentialité"
 #: server/templates/pages/dist/privacy.html:3
 #: server/templates/pages/dist/terms.html:3
 msgid "Firefox cloud services"
-msgstr "Services en ligne de Firefox"
+msgstr "Le Projet WebPlatform.org"
 
 #: server/templates/pages/src/terms.html:2
 #: server/templates/pages/src/terms.html:5
@@ -143,8 +143,8 @@ msgid ""
 "For more information, please visit <a href='https://support.mozilla."
 "org'>Mozilla Support</a>"
 msgstr ""
-"Pour davantage d'informations, veuillez consulter <a href='https://support."
-"mozilla.org'>l'assistance de Mozilla</a>"
+"Pour davantage d'informations, veuillez consulter <a href=\"http://docs.webplatform.org/wiki/WPD:"
+"Contributors_Guide\">Notre guide pour contributeurs</a>."
 
 #: server/templates/email/reset.txt:3
 msgid "Reset password:"
@@ -153,15 +153,15 @@ msgstr "Réinitialiser le mot de passe&nbsp;:"
 #: server/templates/email/reset.txt:5 server/templates/email/verify.txt:5
 msgid "For more information, please visit https://support.mozilla.org"
 msgstr ""
-"Pour davantage d'informations, veuillez consulter https://support.mozilla.org"
+"Pour davantage d'informations, veuillez consulter http://docs.webplatform.org/wiki/WPD:Contributors_Guide"
 
 #: server/templates/email/verify.html:2 server/templates/email/verify.txt:1
 msgid "Congratulations!"
-msgstr "Félicitations !"
+msgstr "Félicitations!"
 
 #: server/templates/email/verify.html:3 server/templates/email/verify.txt:2
 msgid "%(email)s, you're one click away from verifying your Firefox Account."
-msgstr "%(email)s, vous êtes sur le point de vérifier votre compte Firefox."
+msgstr "%(email)s, vous êtes sur le point de vérifier votre compte sur WebPlatform.org."
 
 #: server/templates/email/verify.html:4
 msgid "Verify"

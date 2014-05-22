@@ -25,7 +25,7 @@ msgstr ""
 #: server/templates/pages/dist/terms.html:1
 #: server/templates/email/reset.html:1 server/templates/email/verify.html:1
 msgid "Firefox Accounts"
-msgstr ""
+msgstr "WebPlatform.org"
 
 #: server/templates/pages/src/404.html:2
 #: server/templates/pages/dist/404.html:2
@@ -83,7 +83,7 @@ msgstr ""
 #: server/templates/pages/src/index.html:3
 #: server/templates/pages/dist/index.html:2
 msgid "Firefox Accounts requires JavaScript."
-msgstr ""
+msgstr "WebPlatform.org requires the use of JavaScript."
 
 #: server/templates/pages/src/privacy.html:2
 #: server/templates/pages/src/privacy.html:5
@@ -97,7 +97,7 @@ msgstr ""
 #: server/templates/pages/dist/privacy.html:3
 #: server/templates/pages/dist/terms.html:3
 msgid "Firefox cloud services"
-msgstr ""
+msgstr "WebPlatform.org"
 
 #: server/templates/pages/src/terms.html:2
 #: server/templates/pages/src/terms.html:5
@@ -130,6 +130,8 @@ msgid ""
 "For more information, please visit <a href='https://support.mozilla."
 "org'>Mozilla Support</a>"
 msgstr ""
+"For more information, see <a href='http://docs.webplatform.org/wiki/WPD:"
+"Community'>Our community support</a>"
 
 #: server/templates/email/reset.txt:3
 msgid "Reset password:"
@@ -138,6 +140,8 @@ msgstr ""
 #: server/templates/email/reset.txt:5 server/templates/email/verify.txt:5
 msgid "For more information, please visit https://support.mozilla.org"
 msgstr ""
+"For more information, please visit http://docs.webplatform.org/wiki/WPD:"
+"Community"
 
 #: server/templates/email/verify.html:2 server/templates/email/verify.txt:1
 msgid "Congratulations!"
@@ -146,6 +150,7 @@ msgstr ""
 #: server/templates/email/verify.html:3 server/templates/email/verify.txt:2
 msgid "%(email)s, you're one click away from verifying your Firefox Account."
 msgstr ""
+"%(email)s, you're one click away from verifying your WebPlatform.org account."
 
 #: server/templates/email/verify.html:4
 msgid "Verify"
