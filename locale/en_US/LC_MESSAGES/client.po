@@ -127,7 +127,7 @@ msgstr ""
 
 #: app/scripts/views/form.js:406 app/scripts/lib/strings.js:18
 msgid "Valid email required"
-msgstr ""
+msgstr "Valid email required. DO NOT use your W3C login!"
 
 #: app/scripts/views/form.js:412 app/scripts/lib/strings.js:23
 #: app/scripts/templates/change_password.mustache:6
